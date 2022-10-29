@@ -1,7 +1,7 @@
 {
   "name": "i9-details-rest",
   "version": "1.0.0",
-  "description": "👩‍💻 HNGi9 Backend Task 1 - A RESTful API that returns personal details",
+  "description": "👩‍💻 HNG9 Backend Task 1 - A RESTful API that returns personal details",
   "main": "server.js",
   "type": "module",
   "scripts": {
